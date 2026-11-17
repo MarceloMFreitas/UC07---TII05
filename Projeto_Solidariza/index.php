@@ -27,7 +27,7 @@
             </div>
             <div class="card">
                 <h4>2. Escolha a causa</h4>
-                <p>Navegue pelas companhas ativas e escolha onde sua doação fará diferença.</p>
+                <p>Navegue pelas campanhas ativas e escolha onde sua doação fará diferença.</p>
             </div>
             <div class="card">
                 <h4>3. Solidarize-se</h4>
