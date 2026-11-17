@@ -16,6 +16,11 @@
                         <h1 >Solidariza</h1>
                     </a>
                 </div>
+                <button class="menu-toggle" aria-label="Abrir menu">
+                    <span class="linha"></span>
+                    <span class="linha"></span>
+                    <span class="linha"></span>
+                </button>
                 <ul class="menu-links">
                     <li><a href="index.php">Início</a></li>
                     <li><a href="#">Campanhas</a></li>
