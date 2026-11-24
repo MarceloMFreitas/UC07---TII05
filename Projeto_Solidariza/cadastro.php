@@ -53,6 +53,7 @@
                                 minlength="6"
                                 required
                             >
+                            <small id="erro-senha" class="mensagem-erro"></small>
                         </div>
                     </div>
                 </fieldset>
